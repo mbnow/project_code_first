@@ -12,10 +12,8 @@ class DomyslnyController
      */
     public function index()
     {
-
-
         return new Response(
-            '<html><body>cos tamrerew</body></html>'
+            '<html><body>money</body></html>'
         );
     }
 }
