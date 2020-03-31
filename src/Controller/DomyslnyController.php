@@ -15,7 +15,7 @@ class DomyslnyController
 
 
         return new Response(
-            '<html><body>cos tam</body></html>'
+            '<html><body>cos tamrerew</body></html>'
         );
     }
 }
